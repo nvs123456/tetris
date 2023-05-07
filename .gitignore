@@ -1,0 +1,22 @@
+# ignore ALL .depend files
+*.depend
+
+# ignore ALL .layout files
+*.layout
+
+# ignore ALL .cbp files
+*.cbp
+
+# ignore ALL .dll files
+*.dll
+
+# ignore ALL files in ANY directory named bin
+bin/
+
+# ignore ALL files in ANY directory named 
+bin/
+
+# ignore ALL files in ANY directory named obj
+obj/
+
+
