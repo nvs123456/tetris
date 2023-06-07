@@ -22,7 +22,7 @@ Compile and run:
   
   Create a SDL2 project.  
   
-  Add files .h .pp .dll to project.  
+  Add files .h .cpp .dll to project.  
   
   Click compile and run.  
   
